@@ -1,5 +1,6 @@
 # Aplicacion1-PSP
-## Aplicacion que inserta Empleados (email e ingresos) de forma aleatoria en la BBDD
+## Descripcion:
+Aplicacion que inserta Empleados (email e ingresos) de forma aleatoria en la BBDD
 ## Requisitos:
 - Database: bbdd_psp_1
 - Table: EMPLEADOS
@@ -14,5 +15,5 @@
 2. Ingresa el numero de hilos que desea utilizar
 3. La aplicacion realizara los insert en la BBDD
 
-## Autor
+## Autor:
 Juan Fernando Diaz Diaz
