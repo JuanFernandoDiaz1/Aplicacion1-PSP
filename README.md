@@ -1,5 +1,5 @@
 # Aplicacion1-PSP
-## Practica final PSP Aplicacion 1
+## Aplicacion que inserta Empleados (email e ingresos) de forma aleatoria en la BBDD
 ## Requisitos:
 - Database: bbdd_psp_1
 - Table: EMPLEADOS
