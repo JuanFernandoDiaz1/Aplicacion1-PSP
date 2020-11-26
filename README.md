@@ -1,6 +1,6 @@
 # Aplicacion1-PSP
- Practica final PSP Aplicacion 1
- Requisitos:
+## Practica final PSP Aplicacion 1
+## Requisitos:
 - Database: BBDD_PSP_1
 - Table: EMPLEADOS
 - DB_USER: DAM2020_PSP
