@@ -10,5 +10,5 @@
 - INGRESOS: Integer
 
 ## Funcionamiento: 
-- 1. Ingresa el numero de registros que desea insertar en la BBDD
-- 2. Ingresa el numero de hilos que desea utilizar.
+1. Ingresa el numero de registros que desea insertar en la BBDD
+2. Ingresa el numero de hilos que desea utilizar.
