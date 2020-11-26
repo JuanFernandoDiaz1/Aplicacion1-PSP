@@ -11,4 +11,8 @@
 
 ## Funcionamiento: 
 1. Ingresa el numero de registros que desea insertar en la BBDD
-2. Ingresa el numero de hilos que desea utilizar.
+2. Ingresa el numero de hilos que desea utilizar
+3. La aplicacion realizara los insert en la BBDD
+
+## Autor
+Juan Fernando Diaz Diaz
